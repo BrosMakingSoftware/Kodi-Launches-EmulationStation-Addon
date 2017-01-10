@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32001">
+        <setting id="emulationstation_exec" type="executable" label="EmulationStation executable" default="C:\Program Files (x86)\EmulationStation\emulationstation.exe" />
+    </category>
+</settings>
