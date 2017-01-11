@@ -1,3 +1,45 @@
+# License
+## Kodi-Launches-EmulationStation-Addon
+- Description: It is an Addon for Kodi to launch EmulationStation
+- Author: Diego Hernandez Perez (aka: iampeluca, https://github.com/iampeluca, diego.hernandez.perez.cr@gmail.com)
+- Organization: BrosMakingSoftware (https://github.com/BrosMakingSoftware)
+- License: GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 (see below)
+- Source code: https://github.com/BrosMakingSoftware/Kodi-Launches-EmulationStation-Addon
+
+
+## External Resources
+#### EmulationStation Icon (window_icon_256.png)
+- Description: PNG file containing EmulationStation icon image
+- Author: Alec Lofquist (aka: Aloshi, http://www.aloshi.com, alces14@gmail.com)
+- License: https://github.com/Aloshi/EmulationStation/blob/master/LICENSE.md
+- Source code: https://github.com/Aloshi/EmulationStation/
+- Download: https://github.com/Aloshi/EmulationStation/blob/master/data/resources/window_icon_256.png
+- Changes applied on this distribution: Renamed to "icon.png"
+
+
+#### Screenshots "theming_system.png" and "theming_list.png"
+- Description: Screenshots of a running instance of EmulationStation
+- Author: Programming by Alec Lofquist. Design & UI by Nils Bonenberger
+- Source: http://emulationstation.org/
+- Download: http://emulationstation.org/assets/featurettes/full/theming_system.png
+- Download: http://emulationstation.org/assets/featurettes/full/theming_list.png
+- Changes applied on this distribution: "theming_system.png" converted to JPG format and renamed to "fanart.jpg"
+
+
+#### Simple-Skin Art (10 background images)
+- Description: Background images from "Simple" EmulationStation default skin
+- Author: Nils Bonenberger (http://blog.nilsbyte.de/, nilsbyte@nilsbyte.de)
+- License: Creative Commons (https://creativecommons.org/)
+- Download: http://emulationstation.org/downloads/themes/simple_latest.zip
+
+
+
+--------------------------------------------------------------------------------
+
+
+## GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -631,8 +673,8 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    {one line to give the program's name and a brief idea of what it does.}
-    Copyright (C) {year}  {name of author}
+    Kodi-Launches-EmulationStation-Addon
+    Copyright (C) 2017 BrosMakingSoftware
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -652,7 +694,7 @@ Also add information on how to contact you by electronic and paper mail.
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    {project}  Copyright (C) {year}  {fullname}
+    Kodi-Launches-EmulationStation-Addon  Copyright (C) 2017 BrosMakingSoftware
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.

@@ -6,7 +6,7 @@ import subprocess
 
 addon = xbmcaddon.Addon()
 addonName = addon.getAddonInfo('name')
-emulationstation_exec = addon.getSetting('emulationstation_exec')
+emulationstation_exec = addon.getSetting('emulationstation_exec').decode('utf-8')
 
 
 if not os.path.isfile(emulationstation_exec):

@@ -9,17 +9,20 @@
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
 		<summary lang="en">Kodi Launches EmulationStation</summary>
-		<description lang="en">Addon for Kodi to launch EmulationStation. EmulationStation is a cross-platform graphical front-end for emulators with controller navigation. Install and configure EmulationStation before using this launcher, for instructions and downloads, go to http://emulationstation.org/</description>
-		<license>GNU General Public License, v2</license>
-		<language></language>
+		<summary lang="es">Kodi Inicia EmulationStation</summary>
+		<description lang="en">Addon for Kodi to launch EmulationStation.[CR]EmulationStation is a cross-platform graphical front-end for emulators with controller navigation.[CR]Install and configure EmulationStation before using this launcher, for instructions and downloads, go to http://emulationstation.org/</description>
+		<description lang="es">Addon de Kodi para iniciar EmulationStation.[CR]EmulationStation es una interfaz gráfica multi-plataforma para emuladores con navegación usando controles (mandos).[CR]Instala y configura EmulationStation antes de usar este inicializador, para instrucciones y descargas, visite http://emulationstation.org/</description>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<language>en es</language>
+		<source>https://github.com/BrosMakingSoftware/Kodi-Launches-EmulationStation-Addon/</source>
+		<website>https://github.com/BrosMakingSoftware/Kodi-Launches-EmulationStation-Addon/</website>
 		<forum></forum>
-		<source>https://github.com/BrosMakingSoftware/Roms-Management</source>
-		<website>https://github.com/BrosMakingSoftware/Roms-Management</website>
 		<email>diego.hernandez.perez.cr@gmail.com</email>
+		<news></news>
 		<assets>
 			<icon>icon.png</icon>
-			<fanart>fanart.png</fanart>
-			<screenshot>fanart.png</screenshot>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>fanart.jpg</screenshot>
 			<screenshot>resources/theming_list.png</screenshot>
 			<screenshot>resources/snes_art.png</screenshot>
 			<screenshot>resources/nes_art.png</screenshot>
@@ -32,6 +35,5 @@
 			<screenshot>resources/psx_art.png</screenshot>
 			<screenshot>resources/saturn_art.png</screenshot>
 		</assets>
-		<news></news>
 	</extension>
 </addon>

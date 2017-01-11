@@ -1,0 +1,13 @@
+# File-types not allowed based on http://kodi.wiki/view/Add-on_rules#General_requirements
+*.so
+*.dll
+*.pyo
+*.exe
+*.xbt
+*.xpr
+
+
+# Caches, attributes or temporal system files
+Thumbs.db
+.DS_Store
+.*~
