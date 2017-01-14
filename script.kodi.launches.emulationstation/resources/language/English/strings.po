@@ -1,0 +1,57 @@
+# Kodi Media Center language file
+# Addon Name: Kodi Launches EmulationStation
+# Addon id: script.kodi.launches.emulationstation
+# Addon Provider: iampeluca <diego.hernandez.perez.cr@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: script.kodi.launches.emulationstation\n"
+"Report-Msgid-Bugs-To: diego.hernandez.perez.cr@gmail.com\n"
+"POT-Creation-Date: 2017-01-12 23:15-0600\n"
+"PO-Revision-Date: 2017-01-14 09:11-0600\n"
+"Last-Translator: Diego Hernandez <diego.hernandez.perez.cr@gmail.com>\n"
+"Language-Team: English <diego.hernandez.perez.cr@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);f\n"
+
+
+msgctxt "#32000"
+msgid "Error launching EmulationStation"
+msgstr ""
+
+
+msgctxt "#32001"
+msgid "The EmulationStation executable was not found."
+msgstr ""
+
+
+msgctxt "#32002"
+msgid "Please change its location on the Addon-Configure section."
+msgstr ""
+
+
+msgctxt "#32003"
+msgid "File not found: "
+msgstr ""
+
+
+msgctxt "#32004"
+msgid "Is EmulationStation installed?"
+msgstr ""
+
+
+msgctxt "#32005"
+msgid "Please check that EmulationStation is installed and configured on this system before using this launcher, for instructions and downloads go to http://emulationstation.org/"
+msgstr ""
+
+
+msgctxt "#32006"
+msgid "General"
+msgstr ""
+
+
+msgctxt "#32007"
+msgid "Executable:"
+msgstr ""

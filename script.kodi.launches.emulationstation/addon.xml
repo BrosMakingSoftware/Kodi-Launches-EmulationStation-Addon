@@ -11,11 +11,11 @@
 		<summary lang="en">Kodi Launches EmulationStation</summary>
 		<summary lang="es">Kodi Inicia EmulationStation</summary>
 		<description lang="en">Addon for Kodi to launch EmulationStation.[CR]EmulationStation is a cross-platform graphical front-end for emulators with controller navigation.[CR]Install and configure EmulationStation before using this launcher, for instructions and downloads, go to http://emulationstation.org/</description>
-		<description lang="es">Addon de Kodi para iniciar EmulationStation.[CR]EmulationStation es una interfaz gráfica multi-plataforma para emuladores con navegación usando controles (mandos).[CR]Instala y configura EmulationStation antes de usar este inicializador, para instrucciones y descargas, visite http://emulationstation.org/</description>
+		<description lang="es">Addon de Kodi para iniciar EmulationStation.[CR]EmulationStation es una interfaz gráfica multi-plataforma para emuladores con navegación por medio de controles (mandos).[CR]Instala y configura EmulationStation antes de usar este inicializador, para instrucciones y descargas, visite http://emulationstation.org/</description>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 		<language>en es</language>
 		<source>https://github.com/BrosMakingSoftware/Kodi-Launches-EmulationStation-Addon/</source>
-		<website>https://github.com/BrosMakingSoftware/Kodi-Launches-EmulationStation-Addon/</website>
+		<website>https://github.com/BrosMakingSoftware/Kodi-Launches-EmulationStation-Addon/blob/master/README.md#kodi-launches-emulationstation-addon</website>
 		<forum></forum>
 		<email>diego.hernandez.perez.cr@gmail.com</email>
 		<news></news>
@@ -23,17 +23,21 @@
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
 			<screenshot>fanart.jpg</screenshot>
-			<screenshot>resources/theming_list.png</screenshot>
-			<screenshot>resources/snes_art.png</screenshot>
-			<screenshot>resources/nes_art.png</screenshot>
-			<screenshot>resources/fba_art.png</screenshot>
-			<screenshot>resources/gba_art.png</screenshot>
-			<screenshot>resources/gbc_art.png</screenshot>
-			<screenshot>resources/gen_art.png</screenshot>
-			<screenshot>resources/n64_art.png</screenshot>
-			<screenshot>resources/neogeo_art.png</screenshot>
-			<screenshot>resources/psx_art.png</screenshot>
-			<screenshot>resources/saturn_art.png</screenshot>
+			<screenshot>resources/es-screenshots/theming_list.png</screenshot>
+			<screenshot>resources/es-screenshots/snes_art.png</screenshot>
+			<screenshot>resources/es-screenshots/nes_art.png</screenshot>
+			<screenshot>resources/es-screenshots/fba_art.png</screenshot>
+			<screenshot>resources/es-screenshots/gba_art.png</screenshot>
+			<screenshot>resources/es-screenshots/gbc_art.png</screenshot>
+			<screenshot>resources/es-screenshots/gen_art.png</screenshot>
+			<screenshot>resources/es-screenshots/n64_art.png</screenshot>
+			<screenshot>resources/es-screenshots/neogeo_art.png</screenshot>
+			<screenshot>resources/es-screenshots/psx_art.png</screenshot>
+			<screenshot>resources/es-screenshots/saturn_art.png</screenshot>
+			<screenshot>resources/addon-screenshots/Addon-Selected.jpg</screenshot>
+			<screenshot>resources/addon-screenshots/Addon-Selected-Information.jpg</screenshot>
+			<screenshot>resources/addon-screenshots/Addon-Settings.jpg</screenshot>
+			<screenshot>resources/addon-screenshots/Addon-Settings-Edit-Executable.jpg</screenshot>
 		</assets>
 	</extension>
 </addon>

@@ -8,7 +8,7 @@ Use this Addon on Kodi if you want to launch EmulationStation from it using a ni
 This Addon is just a launcher, so it assumes that you already have installed and configured EmulationStation on your system. It will not assist you to install or configure EmulationStation or download roms or bios for it, you need to provide them.
 
 
-![Addon-Selected-Information.jpg](/Addon-Screenshots/Addon-Selected-Information.jpg)
+![Addon-Selected-Information.jpg](/script.kodi.launches.emulationstation/resources/addon-screenshots/Addon-Selected-Information.jpg)
 
 
 ## Installation
@@ -20,21 +20,21 @@ After that you need to install and configure EmulationStation, to download and g
 #### Steps
 1. Download the Addon:   
    For now this Addon is not registered on any official or unofficial Kodi repositories yet, hopefully it would be in the future. For now the way to install this Addon is to install it from a zip file.  
-   Download the zip file here: https://github.com/BrosMakingSoftware/Kodi-Launches-EmulationStation-Addon/archive/master.zip
+   Go to this page https://github.com/BrosMakingSoftware/Kodi-Launches-EmulationStation-Addon/releases and download the latest zip file available.
 
-2. Start Kodi and navigate to `Settings -> Add-ons -> Install from zip file`, on the file browser look for the zip file you downloaded on the previous step and select it. Installation is going to start and Kodi will show a notification when this is done.   
+2. Start Kodi and navigate to `Settings -> Add-ons -> Add-on browser -> Install from zip file`, on the file browser look for the zip file you downloaded on the previous step and select it. Installation is going to start and Kodi will show a notification when this is done.   
    **Note:** If preference is not checked, Kodi will ask you to allow installations from zip files as a security measure. Change your preferences to allow installations from zip files and continue with the installation. Also please notice that this options can be displayed on different paths depending of the Skin you are using. The path used above is a generic one that may or may not be on your Skins, but in any case it is not hard to find.
 
 3. Once the Addon is installed, navigate to `Program Add-ons` and you will see EmulationStation listed there.   
 
-   ![Addon-Selected.jpg](/Addon-Screenshots/Addon-Selected.jpg)
+   ![Addon-Selected.jpg](script.kodi.launches.emulationstation/resources/addon-screenshots/Addon-Selected.jpg)
 
 4. Before running the Addon, you need to set the location of the EmulationStation executable, the default location is set to `C:\Program Files (x86)\EmulationStation\emulationstation.exe`, this is assuming you are using Windows and you installed it on the default location, but if your executable is not on this path, or you are using Linux or MacOS, you can choose your own location by going to the Addon-Settings by selecting the EmulationStation Addon, bringing up the contextual menu by right-clicking it (or pressing the `Guide` button on a remote, or pressing `C` or `Start` keys on a keyboard) and selecting `Settings` or `Configure`.   
 
-   ![Addon-Settings.jpg](/Addon-Screenshots/Addon-Settings.jpg)
+   ![Addon-Settings.jpg](script.kodi.launches.emulationstation/resources/addon-screenshots/Addon-Settings.jpg)
 
    The next window will show you the `EmulationStation executable` property that you can select and change by navigating on the file browser to select your location. For Linux users, if you installed EmulationStation using an installer, you can try to look at `/usr/local/bin/emulationstation` first, otherwise select your custom location. If you provided an executable that doesn't exist anymore, the next time you try to run it the Addon will show you an error message suggesting you to go to the Addon-Settings and change it.   
 
-   ![Addon-Settings-Edit-Executable.jpg](/Addon-Screenshots/Addon-Settings-Edit-Executable.jpg)
+   ![Addon-Settings-Edit-Executable.jpg](script.kodi.launches.emulationstation/resources/addon-screenshots/Addon-Settings-Edit-Executable.jpg)
 
 5. Enjoy!
