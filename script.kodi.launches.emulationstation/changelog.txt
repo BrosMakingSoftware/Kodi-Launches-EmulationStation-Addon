@@ -9,4 +9,4 @@
   - EmulationStation executable location can be changed on the Addon-Settings
   - Added English and Spanish languages
   - Lots of screenshots for Addon preview
-  - Tested on Kodi Kripton v17 and Helix v14
+  - Tested on Kodi Kripton v17
