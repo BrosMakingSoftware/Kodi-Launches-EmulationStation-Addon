@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: script.kodi.launches.emulationstation\n"
 "Report-Msgid-Bugs-To: diego.hernandez.perez.cr@gmail.com\n"
 "POT-Creation-Date: 2017-01-12 23:15-0600\n"
-"PO-Revision-Date: 2017-01-14 09:11-0600\n"
+"PO-Revision-Date: 2017-01-23 09:11-0600\n"
 "Last-Translator: Diego Hernandez <diego.hernandez.perez.cr@gmail.com>\n"
 "Language-Team: English <diego.hernandez.perez.cr@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr ""
 
 
 msgctxt "#32002"
-msgid "Please change its location on the Addon-Configure section."
+msgid "Please change its location on the Addon-Configure section based on your OS."
 msgstr ""
 
 
@@ -53,5 +53,10 @@ msgstr ""
 
 
 msgctxt "#32007"
-msgid "Executable:"
+msgid "Windows Executable:"
+msgstr ""
+
+
+msgctxt "#32008"
+msgid "Linux Executable:"
 msgstr ""

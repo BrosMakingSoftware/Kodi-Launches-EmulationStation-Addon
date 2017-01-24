@@ -1,7 +1,7 @@
 Kodi Launches EmulationStation Addon
 
 Description:
-Addon for Kodi to launch EmulationStation.
+Addon for Kodi to launch EmulationStation on Windows and Linux.
 EmulationStation is a cross-platform graphical front-end for emulators with controller navigation.
 Install and configure EmulationStation before using this launcher, for instructions and downloads, go to http://emulationstation.org/
 

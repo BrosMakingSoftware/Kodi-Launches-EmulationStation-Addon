@@ -17,12 +17,13 @@
 - Changes applied on this distribution: Renamed to "icon.png"
 
 
-#### Screenshots "theming_system.png" and "theming_list.png"
+#### Screenshots "theming_system.png", "theming_list.png" and "201_new_themes.png"
 - Description: Screenshots of a running instance of EmulationStation
 - Author: Programming by Alec Lofquist. Design & UI by Nils Bonenberger
 - Source: http://emulationstation.org/
 - Download: http://emulationstation.org/assets/featurettes/full/theming_system.png
 - Download: http://emulationstation.org/assets/featurettes/full/theming_list.png
+- Download: http://emulationstation.org/news/wp-content/uploads/2015/03/201_new_themes.png
 - Changes applied on this distribution: "theming_system.png" converted to JPG format and renamed to "fanart.jpg"
 
 

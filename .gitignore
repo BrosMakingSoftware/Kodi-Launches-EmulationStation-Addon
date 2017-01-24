@@ -6,6 +6,9 @@
 *.xbt
 *.xpr
 
+# Other binaries
+*.jar
+*.class
 
 # Caches, attributes or temporal system files
 Thumbs.db

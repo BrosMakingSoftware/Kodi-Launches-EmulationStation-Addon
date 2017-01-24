@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.kodi.launches.emulationstation" name="EmulationStation" version="1.0" provider-name="BrosMakingSoftware">
+<addon id="script.kodi.launches.emulationstation" name="EmulationStation" version="1.1.0" provider-name="BrosMakingSoftware">
 	<requires>
-		<import addon="xbmc.python" version="2.14.0"/>
+		<import addon="xbmc.python" version="2.25.0"/>
 	</requires>
 	<extension point="xbmc.python.script" library="addon.py">
 		<provides>executable</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
+		<platform>linux windx</platform>
 		<summary lang="en">Kodi Launches EmulationStation</summary>
 		<summary lang="es">Kodi Inicia EmulationStation</summary>
 		<description lang="en">Addon for Kodi to launch EmulationStation.[CR]EmulationStation is a cross-platform graphical front-end for emulators with controller navigation.[CR]Install and configure EmulationStation before using this launcher, for instructions and downloads, go to http://emulationstation.org/</description>
@@ -24,6 +24,7 @@
 			<fanart>fanart.jpg</fanart>
 			<screenshot>fanart.jpg</screenshot>
 			<screenshot>resources/es-screenshots/theming_list.png</screenshot>
+			<screenshot>resources/es-screenshots/201_new_themes.png</screenshot>
 			<screenshot>resources/es-screenshots/snes_art.png</screenshot>
 			<screenshot>resources/es-screenshots/nes_art.png</screenshot>
 			<screenshot>resources/es-screenshots/fba_art.png</screenshot>

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: script.kodi.launches.emulationstation\n"
 "Report-Msgid-Bugs-To: diego.hernandez.perez.cr@gmail.com\n"
 "POT-Creation-Date: 2017-01-12 23:15-0600\n"
-"PO-Revision-Date: 2017-01-14 09:11-0600\n"
+"PO-Revision-Date: 2017-01-23 09:11-0600\n"
 "Last-Translator: Diego Hernandez <diego.hernandez.perez.cr@gmail.com>\n"
 "Language-Team: Spanish <diego.hernandez.perez.cr@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -23,13 +23,13 @@ msgstr "Error iniciando EmulationStation"
 
 
 msgctxt "#32001"
-msgid "The EmulationStation executable was not found.."
+msgid "The EmulationStation executable was not found."
 msgstr "El ejecutable de EmulationStation no se pudo encontrar."
 
 
 msgctxt "#32002"
-msgid "Please change its location on the Addon-Configure section."
-msgstr "Por favor configure su ubicación en la sección de Configuración del Addon."
+msgid "Please change its location on the Addon-Configure section based on your OS."
+msgstr "Por favor configure su ubicación en la sección de Configuración del Addon basado en su sistema operativo."
 
 
 msgctxt "#32003"
@@ -53,5 +53,10 @@ msgstr "General"
 
 
 msgctxt "#32007"
-msgid "Executable:"
-msgstr "Ejecutable:"
+msgid "Windows Executable:"
+msgstr "Ejecutable en Windows:"
+
+
+msgctxt "#32008"
+msgid "Linux Executable:"
+msgstr "Ejecutable en Linux"

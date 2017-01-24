@@ -1,11 +1,15 @@
 # Kodi Launches EmulationStation Addon
-Addon for Kodi to launch EmulationStation.
+Addon for Kodi to launch EmulationStation on Windows and Linux (platforms were EmulationStation have official support).
+
+Our goal is to bring to Kodi an easy access to launch this fantastic emulator front-end which provides a beautiful interface to run your roms from more than 50 systems (and counting) with personalized skins and art boxes. You can navigate on its menus using a controller which is perfect for a complete HTPC experience, also it has a built-in metadata scraper that lets you easily download game box art, correct titles, description and even ratings about your games. EmulationStation is cross-platform, and completely open source.
+
+This Addonn was made for Kodi Krypton v17.x and higher since it takes advantage of new features introduced on this version.
 
 ## Usage
-Use this Addon on Kodi if you want to launch EmulationStation from it using a nice interface created with original images taken from the program itself and games. It works on any platform where Kodi and EmulationStation can be installed (Linux, Windows, MacOS).
+Use this Addon on Kodi if you want to launch EmulationStation from it using a nice interface created with original images taken from the program itself and games. It works on any platform where Kodi and EmulationStation can be installed (Linux and Windows).
 
-**Note:**  
-This Addon is just a launcher, so it assumes that you already have installed and configured EmulationStation on your system. It will not assist you to install or configure EmulationStation or download roms or bios for it, you need to provide them.
+**Notes:**  
+This Addon is just a launcher, so it assumes that you already have installed and configured EmulationStation on your system. It will not assist you to install or configure EmulationStation or download roms or bios for it, you need to provide them by your own. This Addon does not collect any kind of hardware/software information, usage statistics or any kind of data from you or your system, we respect your privacy.
 
 
 ![Addon-Selected-Information.jpg](/script.kodi.launches.emulationstation/resources/addon-screenshots/Addon-Selected-Information.jpg)
@@ -29,11 +33,11 @@ After that you need to install and configure EmulationStation, to download and g
 
    ![Addon-Selected.jpg](script.kodi.launches.emulationstation/resources/addon-screenshots/Addon-Selected.jpg)
 
-4. Before running the Addon, you need to set the location of the EmulationStation executable, the default location is set to `C:\Program Files (x86)\EmulationStation\emulationstation.exe`, this is assuming you are using Windows and you installed it on the default location, but if your executable is not on this path, or you are using Linux or MacOS, you can choose your own location by going to the Addon-Settings by selecting the EmulationStation Addon, bringing up the contextual menu by right-clicking it (or pressing the `Guide` button on a remote, or pressing `C` or `Start` keys on a keyboard) and selecting `Settings` or `Configure`.   
+4. Before running the Addon, you need to set the location of the EmulationStation executable, the default location for Windows is `C:\Program Files (x86)\EmulationStation\emulationstation.exe` while for Linux it is `/usr/bin/emulationstation`, if you installed EmulationStation on a different location, you can choose your own location by going to the Addon-Settings by selecting the EmulationStation Addon, bringing up the contextual menu by right-clicking it (or pressing the `Guide` button on a remote, pressing `C` key on a keyboard, pressing `X` button on Xbox or Steam Controllers or `Square` button on PayStation controllers) and selecting `Settings` or `Configure`.   
 
    ![Addon-Settings.jpg](script.kodi.launches.emulationstation/resources/addon-screenshots/Addon-Settings.jpg)
 
-   The next window will show you the `EmulationStation executable` property that you can select and change by navigating on the file browser to select your location. For Linux users, if you installed EmulationStation using an installer, you can try to look at `/usr/local/bin/emulationstation` first, otherwise select your custom location. If you provided an executable that doesn't exist anymore, the next time you try to run it the Addon will show you an error message suggesting you to go to the Addon-Settings and change it.   
+   The next window will show you the `EmulationStation executables` properties that you can select and change them by navigating on the file browser. You only need to edit the executable property of the OS you are running since the other would be ignored. The Addon during its execution checks which OS is running and will call the corresponding executable. If you provided an executable that doesn't exist anymore, the next time you try to run it the Addon will show you an error message suggesting you to go to the Addon-Settings and change it.   
 
    ![Addon-Settings-Edit-Executable.jpg](script.kodi.launches.emulationstation/resources/addon-screenshots/Addon-Settings-Edit-Executable.jpg)
 
