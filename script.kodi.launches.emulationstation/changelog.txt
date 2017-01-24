@@ -1,6 +1,7 @@
 1.1.0
-  - Adds default executable locations for Windows and Linux, both can be set on the Settings configuration.
+  - Adds default executable locations for Windows and Linux, both can be set on the Settings configuration
   - The Addon now evaluates the OS and execute the corresponding executable (Windows or Linux)
+  - This Addon now requires Kodi Kripton v17.x or higher
 
 1.0
   - First Release
