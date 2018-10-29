@@ -60,3 +60,15 @@ msgstr ""
 msgctxt "#32008"
 msgid "Linux Executable:"
 msgstr ""
+
+msgctxt "#32009"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#32010"
+msgid "Turn off powersaving?"
+msgstr ""
+
+msgctxt "#32011"
+msgid "Use workaround when emulator starts behind Kodi?"
+msgstr ""

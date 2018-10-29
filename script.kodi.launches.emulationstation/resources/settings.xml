@@ -4,4 +4,8 @@
         <setting id="windowsExecutable" label="32007" type="executable" default="C:\Program Files (x86)\EmulationStation\emulationstation.exe" />
         <setting id="linuxExecutable" label="32008" type="executable" default="/usr/bin/emulationstation" />
     </category>
+    <category label="32009">
+        <setting id="powersaving" label="32010" type="bool" default="false" />
+        <setting id="workaround" label="32011" type="bool" default="false" />
+    </category>
 </settings>
