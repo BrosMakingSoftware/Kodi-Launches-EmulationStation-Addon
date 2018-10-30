@@ -1,3 +1,13 @@
+1.1.2
+  - Updated translation files headers
+
+1.1.1
+  - Use xterminal to start emulationstation to provide ttl for emulators in linux
+  - Add workaround - exit fullscreen Kodi during emulationstation - to fix emulators loading behind Kodi
+  - Add option to turn off powersavings while running emulationstation
+  - Added configuration options for xterm executable, switch for workaround and switch for powersavings
+  - Added french translations
+
 1.1.0
   - Adds default executable locations for Windows and Linux, both can be set on the Settings configuration
   - The Addon now evaluates the OS and execute the corresponding executable (Windows or Linux)
