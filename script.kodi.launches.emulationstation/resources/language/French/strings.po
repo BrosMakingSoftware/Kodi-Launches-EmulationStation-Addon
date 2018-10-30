@@ -60,3 +60,34 @@ msgstr ""
 msgctxt "#32008"
 msgid "Fichier pour Linux:"
 msgstr ""
+
+msgctxt "#32009"
+msgid "Avancé"
+msgstr ""
+
+msgctxt "#32010"
+msgid "Désactiver mise en veille?"
+msgstr ""
+
+msgctxt "#32011"
+msgid "Activer si les émulateurs démarrent sous Kodi"
+msgstr ""
+
+msgctxt "#32012"
+msgid "Fichier de Xterm:"
+msgstr ""
+
+msgctxt "#32013"
+msgid "Erreur xterm ne peut être trouvé "
+msgstr ""
+
+
+msgctxt "#32014"
+msgid "Xterm est requis pour démarrer emulationstation."
+msgstr ""
+
+
+msgctxt "#32015"
+msgid "Veuillez le localiser dans la configuration, section Avancé."
+msgstr ""
+

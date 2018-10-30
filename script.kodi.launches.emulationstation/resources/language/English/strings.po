@@ -72,3 +72,22 @@ msgstr ""
 msgctxt "#32011"
 msgid "Use workaround when emulator starts behind Kodi?"
 msgstr ""
+
+msgctxt "#32012"
+msgid "Xterm Executable:"
+msgstr ""
+
+msgctxt "#32013"
+msgid "Error finding xterm"
+msgstr ""
+
+
+msgctxt "#32014"
+msgid "Xterm is needed in order to launch emulationstation."
+msgstr ""
+
+
+msgctxt "#32015"
+msgid "Please change its location on the Addon-Configure advanced section."
+msgstr ""
+

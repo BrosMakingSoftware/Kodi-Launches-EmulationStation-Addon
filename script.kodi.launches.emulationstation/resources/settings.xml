@@ -5,6 +5,7 @@
         <setting id="linuxExecutable" label="32008" type="executable" default="/usr/bin/emulationstation" />
     </category>
     <category label="32009">
+        <setting id="xtermExecutable" label="32012" type="executable" default="/usr/bin/xterm" />
         <setting id="powersaving" label="32010" type="bool" default="false" />
         <setting id="workaround" label="32011" type="bool" default="false" />
     </category>
