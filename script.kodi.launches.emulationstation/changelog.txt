@@ -1,3 +1,6 @@
+1.1.4
+  - Added missing french translations to addon.xml
+
 1.1.3
   - Before reenabling powersavings we now send Down key to Kodi to wake it up. Otherwise it will go to sleep when parameter is set.
 
