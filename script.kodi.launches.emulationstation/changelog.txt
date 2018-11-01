@@ -1,3 +1,6 @@
+1.1.3
+  - Before reenabling powersavings we now send Down key to Kodi to wake it up. Otherwise it will go to sleep when parameter is set.
+
 1.1.2
   - Updated translation files headers
 

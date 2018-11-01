@@ -85,6 +85,9 @@ else:
     subprocess.call(launch)
     if __addon__.getSetting('powersaving') == "true":
         log("Returning powersaving settings to inital value")
+        # Before reenabling powersavings, send Down key to Kodi to wake up. Otherwise computer goes to sleep as soon as parameter is set
+        xbmc.executeJSONRPC('{"jsonrpc":"2.0","method":"Input.Down","id":1}')
+        
         xbmc.executeJSONRPC('{"jsonrpc":"2.0","method":"Settings.SetSettingValue", "params":{"setting":"powermanagement.displaysoff","value":'+displayoff+'},"id":1}')
         xbmc.executeJSONRPC('{"jsonrpc":"2.0","method":"Settings.SetSettingValue", "params":{"setting":"powermanagement.shutdowntime","value":'+shutdowntime+'},"id":1}')
     if __addon__.getSetting('workaround') == "true":
