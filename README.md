@@ -3,7 +3,8 @@ Addon for Kodi to launch EmulationStation on Windows and Linux (platforms were E
 
 Our goal is to bring to Kodi an easy access to launch this fantastic emulator front-end which provides a beautiful interface to run your roms from more than 50 systems (and counting) with personalized skins and art boxes. You can navigate on its menus using a controller which is perfect for a complete HTPC experience, also it has a built-in metadata scraper that lets you easily download game box art, correct titles, description and even ratings about your games. EmulationStation is cross-platform, and completely open source.
 
-This Addonn was made for Kodi Krypton v17.x and higher since it takes advantage of new features introduced on this version.
+This Addon was made for Kodi Krypton v17.x and higher since it takes advantage of new features introduced on this version.
+This Addon is available in 3 languages: English, French and Spanish. To swtich to any language, change it on the configurations of Kodi at `Settings -> Interface settings -> Regional -> Language`.
 
 ## Usage
 Use this Addon on Kodi if you want to launch EmulationStation from it using a nice interface created with original images taken from the program itself and games. It works on any platform where Kodi and EmulationStation can be installed (Linux and Windows).
@@ -42,3 +43,17 @@ After that you need to install and configure EmulationStation, to download and g
    ![Addon-Settings-Edit-Executable.jpg](script.kodi.launches.emulationstation/resources/addon-screenshots/Addon-Settings-Edit-Executable.jpg)
 
 5. Enjoy!
+
+#### Troubleshooting
+
+##### Emulators not visible or starting underneath Kodi
+When Python within Kodi starts a new command like the EmulationStation program, it doesn't provide a terminal where emulators can connect and be displayed. As for version 1.1.4 we implemented a solution for Linux users by running Xterm which calls EmulationStation executable and this provides a TTY for emulators to connect to. Xterm location is set as default, but if you have it on a different path, you can change it on the Advance tab of the Addon Configuration.
+
+Sometimes, because Kodi is in fullscreen, emulators will start underneath Kodi's window and not become visible. This can be worked around by exiting Kodi's fullscreen when EmulationStation starts and returning to Kodi's fullscreen after EmulationStation closes. As for version 1.1.4, this option has been added on the Advance tab of the Addon Configuration.
+
+##### Screen turning off or computer enters in sleep mode
+On some systems, EmulationStation will not keep Kodi from shutting down screen or putting the computer to sleep. A workaround has also been added and a switch was added on the Advance tab of the Addon Configuration.
+
+##### Advace tab of the Addon Configuration
+Here you can find the Advace tab of the Addon Configuration, set the values and switches as needed if you face one of the mentioned issues:
+![Addon-Settings-Advance.jpg](script.kodi.launches.emulationstation/resources/addon-screenshots/Addon-Settings-Advance.jpg)
