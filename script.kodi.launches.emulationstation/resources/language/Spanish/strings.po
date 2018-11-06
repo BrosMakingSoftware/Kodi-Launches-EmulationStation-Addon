@@ -60,3 +60,39 @@ msgstr "Ejecutable en Windows:"
 msgctxt "#32008"
 msgid "Linux Executable:"
 msgstr "Ejecutable en Linux"
+
+
+msgctxt "#32009"
+msgid "Advanced"
+msgstr "Avanzado"
+
+
+msgctxt "#32010"
+msgid "Turn off Power Saving?"
+msgstr "¿Desactivar el modo de ahorro de energía?"
+
+
+msgctxt "#32011"
+msgid "Use workaround when emulator starts behind Kodi?"
+msgstr "¿Aplicar solución para emuladores que inician detrás de Kodi?"
+
+
+msgctxt "#32012"
+msgid "Xterm Executable:"
+msgstr "Ejecutable de Xterm"
+
+
+msgctxt "#32013"
+msgid "Error finding Xterm"
+msgstr "Error buscando Xterm"
+
+
+msgctxt "#32014"
+msgid "Xterm is needed in order to launch EmulationStation."
+msgstr "Xterm es requerido para iniciar EmulationStation"
+
+
+msgctxt "#32015"
+msgid "Please change its location on the Addon-Configure advanced section."
+msgstr "Por favor cambie su ubicación en la sección avanzada de la Configuración del Addon."
+
