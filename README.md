@@ -47,13 +47,13 @@ After that you need to install and configure EmulationStation, to download and g
 #### Troubleshooting
 
 ##### Emulators not visible or starting underneath Kodi
-When Python within Kodi starts a new command like the EmulationStation program, it doesn't provide a terminal where emulators can connect and be displayed. As for version 1.1.4 we implemented a solution for Linux users by running Xterm which calls EmulationStation executable and this provides a TTY for emulators to connect to. Xterm location is set as default, but if you have it on a different path, you can change it on the Advance tab of the Addon Configuration.
+When Python within Kodi starts a new command like the EmulationStation program, it doesn't provide a terminal where emulators can connect and be displayed. As for version 1.1.4 we implemented a solution for Linux users by running Xterm which calls EmulationStation executable and this provides a TTY for emulators to connect to. Xterm location is set as default, but if you have it on a different path, you can change it on the Advanced tab of the Addon Configuration.
 
-Sometimes, because Kodi is in fullscreen, emulators will start underneath Kodi's window and not become visible. This can be worked around by exiting Kodi's fullscreen when EmulationStation starts and returning to Kodi's fullscreen after EmulationStation closes. As for version 1.1.4, this option has been added on the Advance tab of the Addon Configuration.
+Sometimes, because Kodi is in fullscreen, emulators will start underneath Kodi's window and not become visible. This can be worked around by exiting Kodi's fullscreen when EmulationStation starts and returning to Kodi's fullscreen after EmulationStation closes. As for version 1.1.4, this option has been added on the Advanced tab of the Addon Configuration.
 
 ##### Screen turning off or computer enters in sleep mode
-On some systems, EmulationStation will not keep Kodi from shutting down screen or putting the computer to sleep. A workaround has also been added and a switch was added on the Advance tab of the Addon Configuration.
+On some systems, EmulationStation will not keep Kodi from shutting down screen or putting the computer to sleep. A workaround has also been added and a switch was added on the Advanced tab of the Addon Configuration.
 
-##### Advace tab of the Addon Configuration
-Here you can find the Advace tab of the Addon Configuration, set the values and switches as needed if you face one of the mentioned issues:
+##### Advanced tab of the Addon Configuration
+Here you can find the Advanced tab of the Addon Configuration, set the values and switches as needed if you face one of the mentioned issues:
 ![Addon-Settings-Advance.jpg](script.kodi.launches.emulationstation/resources/addon-screenshots/Addon-Settings-Advance.jpg)
