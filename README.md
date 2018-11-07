@@ -44,7 +44,8 @@ After that you need to install and configure EmulationStation, to download and g
 
 5. Enjoy!
 
-#### Troubleshooting
+
+## Troubleshooting
 
 ##### Emulators not visible or starting underneath Kodi
 When Python within Kodi starts a new command like the EmulationStation program, it doesn't provide a terminal where emulators can connect and be displayed. As for version 1.1.4 we implemented a solution for Linux users by running Xterm which calls EmulationStation executable and this provides a TTY for emulators to connect to. Xterm location is set as default, but if you have it on a different path, you can change it on the Advanced tab of the Addon Configuration.

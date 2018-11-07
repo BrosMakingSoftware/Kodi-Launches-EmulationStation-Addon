@@ -9,4 +9,6 @@ A more detailed description of this Addon with instructions can be found here
 https://github.com/BrosMakingSoftware/Kodi-Launches-EmulationStation-Addon/blob/master/README.md#kodi-launches-emulationstation-addon
 
 Source code: https://github.com/BrosMakingSoftware/Kodi-Launches-EmulationStation-Addon
-License: https://github.com/BrosMakingSoftware/Kodi-Launches-EmulationStation-Addon/blob/master/LICENSE.md#license
+License type: GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+License link: https://github.com/BrosMakingSoftware/Kodi-Launches-EmulationStation-Addon/blob/master/LICENSE
+Credits: https://github.com/BrosMakingSoftware/Kodi-Launches-EmulationStation-Addon/blob/master/CREDITS.md
