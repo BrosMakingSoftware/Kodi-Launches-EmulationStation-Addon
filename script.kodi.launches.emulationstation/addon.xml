@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.kodi.launches.emulationstation" name="EmulationStation" version="1.1.5" provider-name="BrosMakingSoftware">
+<addon id="script.kodi.launches.emulationstation" name="EmulationStation" version="1.1.6" provider-name="BrosMakingSoftware">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 	</requires>
@@ -21,6 +21,9 @@
 		<forum></forum>
 		<email>diego.hernandez.perez.cr@gmail.com</email>
 		<news>
+1.1.6
+ - Corrected xterm not found error message which displayed wrong text
+
 1.1.5
  - Added Spanish translations for Advance settings
  - Updated French translation file to keep untranslated strings

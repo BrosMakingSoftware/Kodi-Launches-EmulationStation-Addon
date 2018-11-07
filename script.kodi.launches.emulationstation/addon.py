@@ -49,7 +49,7 @@ else:
     # Verify that the xterm path is still valid
     if not os.path.isfile(xterm):
         # This message prints something like: Xterm executable was not found, go to Addon-Configure and change it
-        xbmcgui.Dialog().ok(__localizedMessages__(32000), __localizedMessages__(32001) ,__localizedMessages__(32002), __localizedMessages__(32003) + xterm)
+        xbmcgui.Dialog().ok(__localizedMessages__(32013), __localizedMessages__(32014) ,__localizedMessages__(32015), __localizedMessages__(32003) + xterm)
         # Log the error
         log("xterm executable was not found on this specified location: " + xterm, xbmc.LOGERROR)
     launch = [xterm, "-fullscreen" ,"-e", executable]

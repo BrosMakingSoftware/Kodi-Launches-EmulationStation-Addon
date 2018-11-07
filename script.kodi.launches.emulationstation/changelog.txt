@@ -1,3 +1,13 @@
+1.1.6
+ - Corrected xterm not found error message which displayed wrong text
+
+1.1.5
+ - Added Spanish translations for Advance settings
+ - Updated French translation file to keep untranslated strings
+ - Updated English and French translations to capitalize some names
+ - Updated Addon screenshots
+ - Updated documentation
+
 1.1.4
   - Added missing french translations to addon.xml
 
