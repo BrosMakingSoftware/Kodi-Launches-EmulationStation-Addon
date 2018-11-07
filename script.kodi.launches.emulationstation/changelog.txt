@@ -1,3 +1,6 @@
+1.1.7
+ - Fixed License file to match the GitHub's license auto-detect feature
+
 1.1.6
  - Corrected xterm not found error message which displayed wrong text
 
