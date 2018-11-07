@@ -61,29 +61,34 @@ msgctxt "#32008"
 msgid "Linux Executable:"
 msgstr ""
 
+
 msgctxt "#32009"
 msgid "Advanced"
 msgstr ""
 
+
 msgctxt "#32010"
-msgid "Turn off powersaving?"
+msgid "Turn off Power Saving?"
 msgstr ""
+
 
 msgctxt "#32011"
 msgid "Use workaround when emulator starts behind Kodi?"
 msgstr ""
 
+
 msgctxt "#32012"
 msgid "Xterm Executable:"
 msgstr ""
 
+
 msgctxt "#32013"
-msgid "Error finding xterm"
+msgid "Error finding Xterm"
 msgstr ""
 
 
 msgctxt "#32014"
-msgid "Xterm is needed in order to launch emulationstation."
+msgid "Xterm is needed in order to launch EmulationStation."
 msgstr ""
 
 

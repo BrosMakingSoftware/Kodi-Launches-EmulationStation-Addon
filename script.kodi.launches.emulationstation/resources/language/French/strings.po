@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: script.kodi.launches.emulationstation\n"
 "Report-Msgid-Bugs-To: dommtardif@gmail.com\n"
 "POT-Creation-Date: 2018-10-30 23:15-0600\n"
-"PO-Revision-Date: 2018-10-30 09:11-0600\n"
+"PO-Revision-Date: 2018-11-03 11:53-0600\n"
 "Last-Translator: Dominique Tardif <dommtardif@gmail.com>\n"
 "Language-Team: French <dommtardif@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -18,76 +18,81 @@ msgstr ""
 
 
 msgctxt "#32000"
-msgid "Erreur au démarrage de EmulationStation"
-msgstr ""
+msgid "Error launching EmulationStation"
+msgstr "Erreur au démarrage de EmulationStation"
 
 
 msgctxt "#32001"
-msgid "L'exécutable de EmulationStation n'a pas été trouvé."
-msgstr ""
+msgid "The EmulationStation executable was not found."
+msgstr "L'exécutable de EmulationStation n'a pas été trouvé."
 
 
 msgctxt "#32002"
-msgid "Veuillez le localiser dans la section Configuration selon votre système d'opération"
-msgstr ""
+msgid "Please change its location on the Addon-Configure section based on your OS."
+msgstr "Veuillez le localiser dans la section Configuration selon votre système d'opération."
 
 
 msgctxt "#32003"
-msgid "Fichier non trouvé: "
-msgstr ""
+msgid "File not found: "
+msgstr "Fichier non trouvé: "
 
 
 msgctxt "#32004"
-msgid "EmulationStation est-il installé?"
-msgstr ""
+msgid "Is EmulationStation installed?"
+msgstr "EmulationStation est-il installé?"
 
 
 msgctxt "#32005"
-msgid "Veuillez vous assurer que EmulationStation est installé et configuré sur cet ordinateur. Pour des instructions, référez-vous à http://emulationstation.org/"
-msgstr ""
+msgid "Please check that EmulationStation is installed and configured on this system before using this launcher, for instructions and downloads go to http://emulationstation.org/"
+msgstr "Veuillez vous assurer que EmulationStation est installé et configuré sur cet ordinateur. Pour des instructions, référez-vous à http://emulationstation.org/"
 
 
 msgctxt "#32006"
-msgid "Général"
-msgstr ""
+msgid "General"
+msgstr "Général"
 
 
 msgctxt "#32007"
-msgid "Fichier pour Windows:"
-msgstr ""
+msgid "Windows Executable:"
+msgstr "Fichier pour Windows:"
 
 
 msgctxt "#32008"
-msgid "Fichier pour Linux:"
-msgstr ""
+msgid "Linux Executable:"
+msgstr "Fichier pour Linux:"
+
 
 msgctxt "#32009"
-msgid "Avancé"
-msgstr ""
+msgid "Advanced"
+msgstr "Avancé"
+
 
 msgctxt "#32010"
-msgid "Désactiver mise en veille?"
-msgstr ""
+msgid "Turn off Power Saving?"
+msgstr "Désactiver mise en veille?"
+
 
 msgctxt "#32011"
-msgid "Activer si les émulateurs démarrent sous Kodi"
-msgstr ""
+msgid "Use workaround when emulator starts behind Kodi?"
+msgstr "Activer si les émulateurs démarrent sous Kodi"
+
 
 msgctxt "#32012"
-msgid "Fichier de Xterm:"
-msgstr ""
+msgid "Xterm Executable:"
+msgstr "Fichier de Xterm:"
+
 
 msgctxt "#32013"
-msgid "Erreur xterm ne peut être trouvé "
-msgstr ""
+msgid "Error finding Xterm"
+msgstr "Erreur Xterm ne peut être trouvé "
 
 
 msgctxt "#32014"
-msgid "Xterm est requis pour démarrer emulationstation."
-msgstr ""
+msgid "Xterm is needed in order to launch EmulationStation."
+msgstr "Xterm est requis pour démarrer EmulationStation."
 
 
 msgctxt "#32015"
-msgid "Veuillez le localiser dans la configuration, section Avancé."
-msgstr ""
+msgid "Please change its location on the Addon-Configure advanced section."
+msgstr "Veuillez le localiser dans la configuration, section Avancé."
 
