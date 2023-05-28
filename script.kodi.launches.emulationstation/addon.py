@@ -42,9 +42,9 @@ if platform.system() == "Windows":
     launch = [executable]
 else:
     # Otherwise it is Linux because EmulationStation currently runs on Windows, Debians and RetroPie
-    executable = __addon__.getSetting('linuxExecutable').decode('utf-8')
+    executable = __addon__.getSetting('linuxExecutable')
     log("Loaded Linux executable location from Settings: " + executable)
-    xterm = __addon__.getSetting('xtermExecutable').decode('utf-8')
+    xterm = __addon__.getSetting('xtermExecutable')
     log("Load xterm executable location from Settings: " + xterm)
     # Verify that the xterm path is still valid
     if not os.path.isfile(xterm):
